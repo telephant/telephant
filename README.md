@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @telephant
-- A Frontend Develpoer
+- A frontend engineer
