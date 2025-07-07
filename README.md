@@ -31,11 +31,4 @@
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:telephant11@example.com)
 <!-- 可以加 Twitter / Bilibili / 公众号等 -->
 
----
 
-<!-- Optional -->
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=telephant&show_icons=true&theme=tokyonight" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=telephant&layout=compact&theme=tokyonight" width="45%" />
-</p>
