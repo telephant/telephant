@@ -20,7 +20,7 @@
 
 ### 📌 About Me
 - 🔭 I’m currently building **web SDKs** and **data monitoring dashboard**
-- 🌱 Exploring **AI integration** and **WASM-based media processing**
+- 🌱 Exploring **AI integration** 
 - 🛠 I love debugging complex UI issues and optimizing bundle sizes
 - ✈️ Remote-friendly, async work lover, focused and fast
 
